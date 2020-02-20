@@ -2,7 +2,7 @@
 
 Express notes is a website that allows people to write notes and save them for future reference. Express notes was meant to be practice in back end server programming.
 
-Visit the live webpage [here]{https://cryptic-bastion-61701.herokuapp.com}
+Visit the live webpage [here](https://cryptic-bastion-61701.herokuapp.com)
 
 ## Usage
 
